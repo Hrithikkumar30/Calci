@@ -1,3 +1,4 @@
+#This is the code for calculator
 a = int(input("enter any number"))
 b = int(input("enter any number"))
 
@@ -13,3 +14,4 @@ if c==4:
     print(a/b)
 else:
     print("no operation")
+    
